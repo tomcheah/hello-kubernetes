@@ -31,8 +31,8 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Check
-          
+          value: I love SAP SuccessFactors!
+
 #Access with http://localhost:80
 #Commit a change
 #Refresh page 
